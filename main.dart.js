@@ -72395,8 +72395,8 @@ A.of.prototype={
 an(){return new A.Rg(B.j)}}
 A.Rg.prototype={
 I(a){var s,r,q,p,o,n=this,m=null,l=A.mZ(15),k=A.ajY(n.a.c.c,B.jf,1/0,1/0),j=t.w
-if(A.by(a,m,j).w.a.a>=1024)s=n.d?A.a1(B.c.a2(178.5),12,12,12):B.fO
-else s=A.a1(B.c.a2(178.5),12,12,12)
+if(A.by(a,m,j).w.a.a>=1024)s=n.d?A.a1(B.c.a2(127.5),12,12,12):B.fO
+else s=A.a1(B.c.a2(127.5),12,12,12)
 r=A.db(n.a.c.a,2,B.bT,A.a8(a).p3.x,m)
 q=n.a.c
 j=A.by(a,m,j).w.a.a<=700?2:4
@@ -83965,8 +83965,7 @@ return new A.Ql(B.vz,q,p)})
 s($,"aNV","avY",()=>A.bP(16667,0))
 s($,"aMY","avk",()=>A.akM(0.5,1.1,100))
 s($,"aLd","aiG",()=>A.atH(0.78)/A.atH(0.9))
-r($,"aPS","amR",()=>{var q="assets/images/numa.png"
-return A.a([A.xY("NUMA Description.",q,"NUMA"),A.xY("Job Portal Description.",q,"Job Portal"),A.xY("Memento Description.",q,"Memento"),A.xY("GoForSys Description.",q,"GoForSys"),A.xY("AERL Web Icons Description.",q,"AERL Web Icons"),A.xY("TBD.",q,"TBD")],A.a3("r<JZ>"))})
+r($,"aPS","amR",()=>A.a([A.xY("NUMA Description.","assets/images/NumaCard.png","NUMA"),A.xY("Job Portal Description.","assets/images/JobPortalCard.png","Job Portal"),A.xY("Memento Description.","assets/images/MementoCard.png","Memento"),A.xY("GoForSys Description.","assets/images/GoForSysCard.png","GoForSys"),A.xY("AERL Web Icons Description.","assets/images/AerlCard.png","AERL Web Icons"),A.xY("TBD.","assets/images/TBDCard.png","TBD")],A.a3("r<JZ>")))
 s($,"aME","av8",()=>new A.a47(A.B(t.K,A.a3("lZ"))))
 s($,"aPE","axb",()=>A.ci("^( *,?([^(]+)\\(([^)]*)\\))*$",!0,!1))
 s($,"aPD","axa",()=>A.ci(" *,?([^(]+)\\(([^)]*)\\)",!0,!1))
