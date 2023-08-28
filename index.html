@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <style>
+    body{
+      background-color: #002232;
+    }
+  </style>
   <!--
     If you are serving your web app in a path other than the root, change the
     href value below to reflect the base path you are serving from.
@@ -15,7 +20,7 @@
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="A new Flutter project.">
+  <meta name="description" content="A Multidisciplinary Agency For All Your Digital Needs">
 
   <!-- iOS meta tags & icons -->
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -23,15 +28,34 @@
   <meta name="apple-mobile-web-app-title" content="flutter_profile">
   <link rel="apple-touch-icon" href="icons/Icon-192.png">
 
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+
   <title>PaperBoats Digital - 紙の船</title>
   <link rel="manifest" href="manifest.json">
+  <style>
+    .container{
+      width: 100vw;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .indicator{
+      width: 20vw;
+    }
+  </style>
 </head>
-<body>
+<body style="overflow: hidden;">
+  <div id="loading_indicator" class="container">
+    <img class="indicator" src="./assets/preloader.gif" />
+  </div>
+  backgrou
   <!-- This script installs service_worker.js to provide PWA functionality to
        application. For more information, see:
        https://developers.google.com/web/fundamentals/primers/service-workers -->
   <script>
-    const serviceWorkerVersion = "620580812";
+    const serviceWorkerVersion = "613224217";
     var scriptLoaded = false;
     function loadMainDartJs() {
       if (scriptLoaded) {
@@ -93,6 +117,16 @@
       // Service workers not supported. Just drop the <script> tag.
       loadMainDartJs();
     }
+  </script>
+  <script>
+    window.onload = function(){
+      setTimeout(function(){
+        var loadingIndicator = document.getElementById("loading_indicator");
+        if(loadingIndicator){
+          loadingIndicator.remove();
+        }
+      }, 10000);
+    };
   </script>
 </body>
 </html>
