@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "94a597fabda2a02a3f9ecfb9663b1d2f",
-"assets/AssetManifest.json": "3dc2c43c48dcba48824e72cbfef7647e",
+const RESOURCES = {"assets/AssetManifest.bin": "29d0efc65f499a3e269eda6a4ec41beb",
+"assets/AssetManifest.json": "7ccd7b115330a14188cbb074f306a8e8",
 "assets/assets/icons/behance.svg": "1487dff57f5c15131037cb6965a4d0bf",
 "assets/assets/icons/done.json": "a6224ee6404c4224d4d975cfc9672763",
 "assets/assets/icons/dribble.svg": "cf842513f50591eb280695ad14bfa409",
@@ -13,6 +13,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "94a597fabda2a02a3f9ecfb9663b1d2f
 "assets/assets/icons/twitter.svg": "c09d9f98cb67b0dfc2aa4c63170f2632",
 "assets/assets/images/AerlCard.png": "567f72c47706cbaf71e9526ac90a0766",
 "assets/assets/images/bg.jpeg": "805722fdbc160cd0c72e5f29d63e10ed",
+"assets/assets/images/demopdf.pdf": "bd7eb6c5784f64c4ce8a85c47aaf0a9d",
 "assets/assets/images/GoForSysCard.png": "adf0026797a9f3634ed1b0716d0e1601",
 "assets/assets/images/JobPortalCard.png": "ba0f4a1aa49e46e28d008b4a55a4eecb",
 "assets/assets/images/Logo.png": "4550281fd7344b7b038868d2369a7cfa",
@@ -20,8 +21,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "94a597fabda2a02a3f9ecfb9663b1d2f
 "assets/assets/images/NumaCard.png": "c0c248baa0667c7fed2276b3b5d28937",
 "assets/assets/images/TBDCard.png": "7a0bf22e302ac65e21a3faa7ca90f242",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "4cd76aae462d402847cb3d62d422bad2",
-"assets/NOTICES": "05cf6ba2be425450e92190acdf7192ee",
+"assets/fonts/MaterialIcons-Regular.otf": "1e7c8b83927c8286840c89684fdb2f6d",
+"assets/NOTICES": "30f9f1405fb3ab26540a4d697c381f1e",
 "assets/packages/cool_alert/assets/flare/error_check.flr": "d9f54791d0d79935d22206966707e4b3",
 "assets/packages/cool_alert/assets/flare/info_check.flr": "f6b81c2aa3ae36418c13bfd36d11ac04",
 "assets/packages/cool_alert/assets/flare/loading.flr": "b6987a8e6de74062b8c002539d2d043e",
@@ -41,9 +42,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "94a597fabda2a02a3f9ecfb9663b1d2f
 "flutter.js": "6b515e434cea20006b3ef1726d2c8894",
 "icons/Icon-192.png": "88ab962476dffdc700a8d529add5a068",
 "icons/Icon-512.png": "4c9b895dbffac1985f0f2e5ea0f3b5b1",
-"index.html": "1c810ac277aa965f39aab9daa7c4ab26",
-"/": "1c810ac277aa965f39aab9daa7c4ab26",
-"main.dart.js": "31a917cd0568f8ca45728fba6085525a",
+"index.html": "79f0787de59c702c80981aa896f4747d",
+"/": "79f0787de59c702c80981aa896f4747d",
+"main.dart.js": "58fde8806c6ece66a45d2cdbb62eaef3",
 "manifest.json": "331de09d5c03bd7bf4bf2f6bd9f81965",
 "version.json": "1ac57eb0214a8f5216f1da7dd479b33f"};
 // The application shell files that are downloaded before a service worker can
