@@ -21,8 +21,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "29d0efc65f499a3e269eda6a4ec41beb
 "assets/assets/images/NumaCard.png": "c0c248baa0667c7fed2276b3b5d28937",
 "assets/assets/images/TBDCard.png": "7a0bf22e302ac65e21a3faa7ca90f242",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "1e7c8b83927c8286840c89684fdb2f6d",
-"assets/NOTICES": "30f9f1405fb3ab26540a4d697c381f1e",
+"assets/fonts/MaterialIcons-Regular.otf": "4cd76aae462d402847cb3d62d422bad2",
+"assets/NOTICES": "c862212e60245203f0122e0cf99780f9",
 "assets/packages/cool_alert/assets/flare/error_check.flr": "d9f54791d0d79935d22206966707e4b3",
 "assets/packages/cool_alert/assets/flare/info_check.flr": "f6b81c2aa3ae36418c13bfd36d11ac04",
 "assets/packages/cool_alert/assets/flare/loading.flr": "b6987a8e6de74062b8c002539d2d043e",
@@ -42,9 +42,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "29d0efc65f499a3e269eda6a4ec41beb
 "flutter.js": "6b515e434cea20006b3ef1726d2c8894",
 "icons/Icon-192.png": "88ab962476dffdc700a8d529add5a068",
 "icons/Icon-512.png": "4c9b895dbffac1985f0f2e5ea0f3b5b1",
-"index.html": "e2482e7478ebada81893178053861a44",
-"/": "e2482e7478ebada81893178053861a44",
-"main.dart.js": "cfe418fba003615fbd9b5f6c7045648d",
+"index.html": "7cf12040a24ed6e66fed8fc8deb45147",
+"/": "7cf12040a24ed6e66fed8fc8deb45147",
+"main.dart.js": "8cd019cc1d5773b8ab82d00f3c0d7e0d",
 "manifest.json": "331de09d5c03bd7bf4bf2f6bd9f81965",
 "version.json": "1ac57eb0214a8f5216f1da7dd479b33f"};
 // The application shell files that are downloaded before a service worker can
