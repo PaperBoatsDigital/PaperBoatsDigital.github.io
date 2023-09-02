@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "fd68c8dc04a9919207fcda6049e9a4e1",
-"assets/AssetManifest.json": "3be6e3ecd0178ec696da109714dbb408",
+const RESOURCES = {"assets/AssetManifest.bin": "cabca15927ca10b84afe268987baee09",
+"assets/AssetManifest.json": "5bf90ea79d543da704799b93bca8a363",
 "assets/assets/icons/behance.svg": "1487dff57f5c15131037cb6965a4d0bf",
 "assets/assets/icons/done.json": "a6224ee6404c4224d4d975cfc9672763",
 "assets/assets/icons/dribble.svg": "cf842513f50591eb280695ad14bfa409",
@@ -17,6 +17,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "fd68c8dc04a9919207fcda6049e9a4e1
 "assets/assets/images/GoForSysCard.png": "adf0026797a9f3634ed1b0716d0e1601",
 "assets/assets/images/JobPortalCard.png": "ba0f4a1aa49e46e28d008b4a55a4eecb",
 "assets/assets/images/Logo.png": "4550281fd7344b7b038868d2369a7cfa",
+"assets/assets/images/Logo3d.png": "70e0ca6424f2ea9a5aa354dc40351024",
 "assets/assets/images/MementoCard.png": "870145e91d49f21026bc8117a9179503",
 "assets/assets/images/NumaCard.png": "c0c248baa0667c7fed2276b3b5d28937",
 "assets/assets/images/TBDCard.png": "7a0bf22e302ac65e21a3faa7ca90f242",
@@ -45,9 +46,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "fd68c8dc04a9919207fcda6049e9a4e1
 "flutter.js": "6b515e434cea20006b3ef1726d2c8894",
 "icons/Icon-192.png": "88ab962476dffdc700a8d529add5a068",
 "icons/Icon-512.png": "4c9b895dbffac1985f0f2e5ea0f3b5b1",
-"index.html": "3300d1a73e4442b7fae433376509cd6a",
-"/": "3300d1a73e4442b7fae433376509cd6a",
-"main.dart.js": "52de534bbfb197d97494329f04fb6749",
+"index.html": "de9a51ccccd4d7f13ed1d9bcfe8f6adc",
+"/": "de9a51ccccd4d7f13ed1d9bcfe8f6adc",
+"main.dart.js": "0e409c9eca389ca3ea9385069b41f093",
 "manifest.json": "331de09d5c03bd7bf4bf2f6bd9f81965",
 "version.json": "1ac57eb0214a8f5216f1da7dd479b33f"};
 // The application shell files that are downloaded before a service worker can
