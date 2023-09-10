@@ -24,7 +24,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "002fc99eaa5c5266dc99ffe7ef712fcd
 "assets/assets/PDFs/NumaPDF.pdf": "79a859d069745fa4de7f738a15da726d",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "eb5526d66c7aff7b958491bf10e15051",
+"assets/NOTICES": "27a3680d9d88355a117096a1ef254a5e",
 "assets/packages/cool_alert/assets/flare/error_check.flr": "d9f54791d0d79935d22206966707e4b3",
 "assets/packages/cool_alert/assets/flare/info_check.flr": "f6b81c2aa3ae36418c13bfd36d11ac04",
 "assets/packages/cool_alert/assets/flare/loading.flr": "b6987a8e6de74062b8c002539d2d043e",
@@ -47,9 +47,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "002fc99eaa5c5266dc99ffe7ef712fcd
 "flutter.js": "6b515e434cea20006b3ef1726d2c8894",
 "icons/Icon-192.png": "88ab962476dffdc700a8d529add5a068",
 "icons/Icon-512.png": "4c9b895dbffac1985f0f2e5ea0f3b5b1",
-"index.html": "60d7979181875bfcb8ac99281dca6716",
-"/": "60d7979181875bfcb8ac99281dca6716",
-"main.dart.js": "bab00a183689fd6358211a35792ed0a6",
+"index.html": "c1064c50915c2c76ca0ad6d33e6bc514",
+"/": "c1064c50915c2c76ca0ad6d33e6bc514",
+"main.dart.js": "1db71d7bda2fa7ef8f08ed92d1c65afd",
 "manifest.json": "331de09d5c03bd7bf4bf2f6bd9f81965",
 "version.json": "1ac57eb0214a8f5216f1da7dd479b33f"};
 // The application shell files that are downloaded before a service worker can
